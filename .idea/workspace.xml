@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05609cc5-27d1-45eb-b6a2-9c8623c71b02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/BlockIOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/BufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/ChannelTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/NIOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/TestBlockNIOUDP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/TestBlockingNIO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NIO/TestPipe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlockIOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChannelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NIOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestBlockNIOUDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestBlockingNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestPipe.java" afterDir="false" />
-    </list>
+    <list default="true" id="05609cc5-27d1-45eb-b6a2-9c8623c71b02" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +16,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\codes\intelliJ\NIO\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -157,18 +142,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577518188749</updated>
-      <workItem from="1577518199858" duration="11838000" />
+      <workItem from="1577518199858" duration="12170000" />
     </task>
+    <task id="LOCAL-00001" summary="nio学习">
+      <created>1577533862436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577533862436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nio学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="nio学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1971" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1577523259714">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1971" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577523259714" />
+    <state x="1778" y="46" key="CommitChangelistDialog2" timestamp="1577533861294">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1778" y="46" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577533861294" />
     <state x="2197" y="195" key="FileChooserDialogImpl" timestamp="1577518467523">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
@@ -189,10 +201,18 @@
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state width="1556" height="231" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577533684293" />
+    <state x="1758" y="185" key="Vcs.Push.Dialog.v2" timestamp="1577534124682">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1758" y="185" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577534124682" />
     <state x="1864" y="350" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577518474897">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1864" y="350" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577518474897" />
+    <state x="1960" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577534191936">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1960" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577534191936" />
     <state x="1829" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1577531313754">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
