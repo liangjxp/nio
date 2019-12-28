@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05609cc5-27d1-45eb-b6a2-9c8623c71b02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/BlockIOTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/BufferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/ChannelTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/NIOTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/TestBlockNIOUDP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/TestBlockingNIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NIO/TestPipe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlockIOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChannelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NIOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestBlockNIOUDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestBlockingNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestPipe.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\java-libs\maven-repository" />
+        <option name="mavenHome" value="D:/Program Files/java-libs/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\Program Files\java-libs\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VbOAMMzFJrbPy3Nf4y4mYBqcVt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="D:\Program Files\java-libs\download-libs" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\codes\intelliJ\NIO\resources" />
+      <recent name="E:\codes\intelliJ\NIO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\codes\intelliJ\NIO\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestPipe.test1">
+    <configuration name="TestBlockNIOUDP.receive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NIO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBlockNIOUDP" />
+      <option name="METHOD_NAME" value="receive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlockNIOUDP.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NIO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBlockNIOUDP" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NIO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBlockingNIO" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlockingNIO.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NIO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBlockingNIO" />
+      <option name="METHOD_NAME" value="server" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPipe.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NIO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPipe" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPipe.test1" />
+        <item itemvalue="JUnit.TestBlockNIOUDP.send" />
+        <item itemvalue="JUnit.TestBlockNIOUDP.receive" />
+        <item itemvalue="JUnit.TestBlockingNIO.client" />
+        <item itemvalue="JUnit.TestBlockingNIO.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05609cc5-27d1-45eb-b6a2-9c8623c71b02" name="Default Changelist" comment="" />
+      <created>1577518188749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577518188749</updated>
+      <workItem from="1577518199858" duration="11838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1971" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1577523259714">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1971" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577523259714" />
+    <state x="2197" y="195" key="FileChooserDialogImpl" timestamp="1577518467523">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="2197" y="195" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577518467523" />
+    <state width="1556" height="231" key="GridCell.Tab.0.bottom" timestamp="1577533684293">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="231" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577533684293" />
+    <state width="1556" height="231" key="GridCell.Tab.0.center" timestamp="1577533684293">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="231" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577533684293" />
+    <state width="1556" height="231" key="GridCell.Tab.0.left" timestamp="1577533684293">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="231" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577533684293" />
+    <state width="1556" height="231" key="GridCell.Tab.0.right" timestamp="1577533684293">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="231" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577533684293" />
+    <state x="1864" y="350" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577518474897">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1864" y="350" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577518474897" />
+    <state x="1829" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1577531313754">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1829" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1577531313754" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BufferTest.java</url>
+          <line>8</line>
+          <log-expression expression="        buffer.flip();&#10;        // get()读取缓冲区数据&#10;        byte[] dst = new byte[buffer.limit()];&#10;        buffer.get(dst);&#10;        System.out.println(new String(dst, 0, dst.length));&#10;        // rewind() 可重复读&#10;        buffer.rewind();&#10;        // clear() 清空缓冲区，三个指针复原，但数据还是存在&#10;        buffer.clear();&#10;        // 判断缓冲区是否还有剩余数据，输出还可以操作的数量&#10;        if(buffer.hasRemaining()){&#10;            System.out.println(buffer.remaining());&#10;        }&#10;        buffer.isDirect();" language="JAVA" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
